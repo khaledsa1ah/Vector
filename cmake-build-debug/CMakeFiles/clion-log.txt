@@ -1,0 +1,4 @@
+C:\Users\KHALED\Downloads\CLion-2022.1.2.win\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/KHALED/Downloads/CLion-2022.1.2.win/bin/ninja/win/ninja.exe -G Ninja -S C:\Users\KHALED\Documents\GitHub\OOP-Assignment-3\Vector -B C:\Users\KHALED\Documents\GitHub\OOP-Assignment-3\Vector\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/KHALED/Documents/GitHub/OOP-Assignment-3/Vector/cmake-build-debug
